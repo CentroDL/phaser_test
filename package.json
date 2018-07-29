@@ -1,22 +1,11 @@
 {
   "name": "phaser_test",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "build": "webpack --config webpack.config.js"
-  },
-  "author": "Dennis Liaw",
-  "license": "ISC",
+  "repository": "git@github.com:CentroDL/phaser_test.git",
+  "author": "Dennis Liaw <dennis.liaw@gmail.com>",
+  "license": "MIT",
   "dependencies": {
-    "phaser": "^3.10.1"
-  },
-  "devDependencies": {
-    "babel-core": "^6.26.3",
-    "babel-loader": "^7.1.5",
-    "babel-preset-env": "^1.7.0",
-    "webpack": "^4.15.1",
-    "webpack-cli": "^3.0.8"
+    "phaser": "^3.11.0"
   }
 }
